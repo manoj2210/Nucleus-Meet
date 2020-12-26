@@ -2,11 +2,11 @@
 
 ## Installation
 
-###Windows
+### Windows
 
 `Download the Nucleus Video Conferencing Setup 1.2.0(x64).exe`
 
-###Linux
+### Linux
 
 `Download the Nucleus-video-conferencing-app-1.2.0.tar.gz`
 
